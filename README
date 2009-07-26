@@ -29,6 +29,10 @@ to be included in the future (any help are welcome on this).
  Installation
 ===============
 
+Use gem through Rubyforge to get the latest most stable version:
+sudo gem install rubyfw
+
+Or if you want the latest release from github use the following:
 gem sources -a http://gems.github.com
 sudo gem install iZsh-rubyfw
 
