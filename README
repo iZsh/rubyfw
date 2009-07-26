@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 =============
 
 This is a FireWire Library for Ruby.
-Currently, it only supports MacOSX, but Linux and Win32 platform are planned
+Currently, it only supports MacOSX, but Linux and Win32 platforms are planned
 to be included in the future (any help are welcome on this).
 
 ===============
@@ -30,7 +30,7 @@ to be included in the future (any help are welcome on this).
 ===============
 
 gem sources -a http://gems.github.com
-sudo gem install izsh-rubyfw
+sudo gem install iZsh-rubyfw
 
 ==========
  Examples

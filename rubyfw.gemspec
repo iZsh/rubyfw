@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.description = %q{FireWire Library for Ruby.}
   s.has_rdoc = false
   s.files = [
-              "README", "Changelog", "LICENSE",
+              "README", "ChangeLog", "LICENSE",
               "lib/fw.rb",
               "ext/extconf.rb", "ext/macosx/fwext.c"
             ]
