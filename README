@@ -39,3 +39,8 @@ sudo gem install iZsh-rubyfw
 To use it, just use the following requires:
 require 'rubygems'
 require 'fw'
+
+Alternatively you could check out macloginpwdfinder-fw.rb at
+http://github.com/iZsh/Processus-Memory-Tools for a real script using this
+library.
+
