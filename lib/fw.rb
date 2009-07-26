@@ -15,8 +15,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 require 'fwext'
 
-# Expand the Bignum class for UI64 (Universal Identifier) representation
-class Bignum
+# Expand the Integer class for UI64 (Universal Identifier) representation
+class Integer
   def to_ui64
     ("%016x" % self).scan(/[a-f0-9]{2}/).join(":")
   end
