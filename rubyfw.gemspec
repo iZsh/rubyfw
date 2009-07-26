@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Gem::Specification.new do |s|
   s.name = %q{rubyfw}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.date = %q{2009-07-26}
   s.authors = ["iZsh"]
   s.email = %q{izsh@iphone-dev.com}
